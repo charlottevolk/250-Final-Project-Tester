@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test>
+
+<webpage name="www.cs.mcgill.ca">
+    <link name="www.ea.com" />
+    <link name="www.ubisoft.com" />
+    <link name="www.eidos.com" />
+    <link name="www.unreal.com" />
+    <link name="www.unity.com" />
+    <rank value="1.154" />
+    <content value=" McGill University is one of the top research universities in Canada and is the only Canadian university to rank consistently among the top 25 universities in the world (based on Times and QS rankings). The School of Computer Science currently stands second in Canada for its research funding. Our professors have received most of the top awards in Computer Science, while our students go on to become top-notch research and industry leaders. A graduate degree from the McGill School of Computer Science is recognized in both the academic and industrial worlds as a proof of excellence. Our department is currently 34 faculty members strong, 60 Ph.D. students, and 100 Masters students. All of our Ph.D. students and most of our Masters students are funded through teaching assistantships or research assistantships. Approximately half our graduate students are Canadian and the other half are from abroad."/>
+</webpage>
+
+<webpage name="www.ea.com">
+    <link name="www.ubisoft.com" />
+    <link name="www.unity.com" />
+    <link name="www.cs.mcgill.ca" />
+    <rank value="1.191" />
+    <content value="Electronic Arts Inc. is a global leader in digital interactive entertainment. EA develops and delivers games, content and online services for Internet-connected consoles, mobile devices and personal computers. EA has more than 300 million registered players around the world."/>
+</webpage>
+
+<webpage name="www.ubisoft.com">
+    <link name="www.ea.com" />
+    <link name="www.unity.com" />
+    <link name="www.cs.mcgill.ca" />
+    <rank value="0.933" />
+    <content value="Ubisoft is a creator of worlds, committed to enriching players' lives with original and memorable gaming experiences."/>
+</webpage>
+
+<webpage name="www.eidos.com">
+    <link name="www.ea.com" />
+     <link name="www.unreal.com" />
+    <link name="www.unity.com" />
+    <link name="www.cs.mcgill.ca" />
+    <rank value="0.814" />
+    <content value="Square Enix, Inc. develops, publishes, distributes and licenses SQUARE ENIX®, EIDOS® and TAITO® branded entertainment content throughout the Americas as part of the Square Enix group of companies. Square Enix, Inc. is affiliated with a global network of leading development studios such as Crystal Dynamics® and Eidos Montréal™. The Square Enix group of companies boasts a valuable portfolio of intellectual property including: FINAL FANTASY®, which has sold over 144 million units worldwide; DRAGON QUEST®, which has sold over 78 million units worldwide; TOMB RAIDER®, which has sold over 74 million units worldwide; and the legendary SPACE INVADERS®. Square Enix, Inc. is a U.S.-based, wholly owned subsidiary of Square Enix Holdings Co., Ltd."/>
+</webpage>
+
+<webpage name="www.unreal.com">
+    <link name="www.ea.com" />
+    <link name="www.unity.com" />
+    <link name="www.ubisoft.com" />
+    <rank value="0.717" />
+    <content value="Unreal is a pure C++ engine designed for high performance. Its advanced CPU/GPU profiling tools and flexible renderer equips developers to efficiently achieve quality VR experiences."/>
+</webpage>
+
+<webpage name="www.unity.com">
+    <link name="www.ea.com" />
+    <link name="www.cs.mcgill.ca" />
+    <link name="www.eidos.com" />
+    <rank value="1.191" />
+    <content value="Start bringing your vision to life today. Unity’s real-time 3D development platform empowers you with all you need to create, operate, and monetize."/>
+</webpage>
+
+</test>
